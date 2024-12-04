@@ -1,1 +1,1 @@
-#### Textbook Comparison Case Study
+# Textbook Comparison Case Study
