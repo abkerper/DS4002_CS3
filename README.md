@@ -1,3 +1,4 @@
 # Textbook Comparison Case Study
 ### A DS 4002 Case Study by Allison Kerper
- ![image](https://github.com/user-attachments/assets/7a0dc6f6-dee3-4f19-887e-63a7ff50723b)
+![image](https://github.com/user-attachments/assets/1092dfc2-bb94-46a8-a45f-19c7077df06f)
+
