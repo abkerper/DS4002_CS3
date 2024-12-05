@@ -8,7 +8,7 @@ Included in this repo is a hook document and a rubric. The hook document, titled
 ## Materials Folder
 In this folder you will find example data, example code, and reference materials for this assignment. These materials will help you stay on task and understand what this process can look like when completed. You should replicate your CSV file with the same format as the example in this folder. Information on sentiment analysis is included, as well as specific information on the VADER package should you choose that route. Further information on that package can be found [here](https://vadersentiment.readthedocs.io/en/latest/pages/introduction.html).
 
-## Reference Materials
+## References
 C. J. Hutto and E. Gilbert, “Welcome to VaderSentiment’s documentation!¶,” Welcome to VaderSentiment’s documentation! - VaderSentiment 3.3.1 documentation, https://vadersentiment.readthedocs.io/en/latest/ (accessed Sep. 11, 2024).
 
 L. Geetha, “Vader: A Comprehensive Guide to Sentiment Analysis in Python,” Medium, Feb. 28, 2023. Available: https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e
